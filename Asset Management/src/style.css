@@ -1,10 +1,10 @@
 @font-face {
 
-  font-family: 'MyFont';
+  font-family: 'Montserrat-Italic-VariableFont_wght';
 
-  src: url('./my-font.woff2') format('woff2'),
+  src: url('./Montserrat-Italic-VariableFont_wght.ttf') format('ttf'),
 
-    url('./my-font.woff') format('woff');
+    url('./Montserrat-VariableFont_wght.ttf') format('ttf');
 
   font-weight: 600;
 
