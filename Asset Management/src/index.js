@@ -16,4 +16,6 @@ function component() {
   return element;
 }
 
-document.body.appendChild(component()); 
+document.body.appendChild(component());
+
+//https://snyk.io/blog/best-practices-create-modern-npm-package/
